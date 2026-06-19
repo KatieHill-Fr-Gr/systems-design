@@ -1,6 +1,6 @@
 # Summary
 
-This repo contains systems design exercises, 
+This repo contains systems design exercises.
 
 # Contents
 
